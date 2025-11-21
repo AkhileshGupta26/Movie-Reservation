@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy==1.4.49
+psycopg2-binary
+alembic
+python-jose[cryptography]
+passlib[argon2]>=1.7.4
+python-dotenv
+redis
+celery[redis]
+pydantic
+pytest
+requests
+httpx
+pydantic-settings
+email-validator
